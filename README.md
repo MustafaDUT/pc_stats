@@ -83,5 +83,4 @@ Bu proje **MIT Lisansı** ile korunmaktadır.
 
 ---
 
-**Yapımcı:** [Mustafa Subandut](https://github.com/mustafasubandut)  
 *Keyifli kullanımlar!* 🚀
